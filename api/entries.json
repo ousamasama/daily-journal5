@@ -1,0 +1,22 @@
+{
+    "journalEntries": [
+        {
+            "date": "10/17/2018",
+            "concept": "Pizza",
+            "entry": "Nice!",
+            "mood": "Happy"
+        },
+        {
+            "date": "10/19/2018",
+            "concept": "Brendan Tips",
+            "entry": "I owe brendan money",
+            "mood": "Sad"
+        },
+        {
+            "date": "10/24/2018",
+            "concept": "Birthday",
+            "entry": "Today is my birthday!",
+            "mood": "Happy"
+        }
+    ]
+}
