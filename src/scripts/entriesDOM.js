@@ -1,7 +1,7 @@
 const componentMakerObject = {
     componentMaker: (entries) => {
         entries.forEach( (entry) => {
-        document.querySelector(".entryLog").innerHTML += journalEntryComponentObjectManager.makeJournalEntryComponent(entry);
+        document.querySelector("#entryLog").innerHTML += journalEntryComponentObjectManager.makeJournalEntryComponent(entry);
         })
     }
 }
